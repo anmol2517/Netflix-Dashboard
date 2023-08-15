@@ -7,3 +7,6 @@ The goal of this project is to practice creating and interpreting different type
 There are many different solutions to help you build dashboards: Tableau, Excel, or Google Sheets.
 
 <img width="900" alt="Netflix Dashboard Server Network" src="https://github.com/anmol2517/Netflix-Dashboard/assets/110680449/38f82c57-f098-4f5d-8b71-f5ffee4b4320">
+
+![Netflix logo](https://github.com/anmol2517/Netflix-Dashboard/assets/110680449/f8e85040-447d-4ca6-98be-0671e29c0b21)
+
